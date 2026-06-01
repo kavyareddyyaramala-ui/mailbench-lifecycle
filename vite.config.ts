@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/mailbench-lifecycle/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
