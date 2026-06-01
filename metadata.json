@@ -1,0 +1,6 @@
+{
+  "name": "MailBench — Luxury Ecommerce Retention Portfolio",
+  "description": "Premium client-facing portfolio for MailBench, a world-class e-commerce retention marketing agency specializing in email and SMS lifecycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
